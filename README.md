@@ -2,7 +2,7 @@
 This is a shared prompt we're using for Gen AI model.
 
 BW including Skin Care / Hair / Makeup / Fragrance
-As of Feb 2026 - Testing only Makeup and Frgrance
+As of Feb 2026 - Testing only Makeup and Fragrance
 
 ------- Start from here --------------------
 # Product Classifier Expert System
