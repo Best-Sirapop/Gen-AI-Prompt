@@ -23,7 +23,7 @@ Your task is to analyze a given product name and classify it into exactly ONE of
 
 
 ### 3. FUNCTIONAL SUPPLEMENTS
-*   **Nutrition:** Cod liver oil, or other essential daily nutrient support products / exclude multivitamins since it's a part of health supplement above.
+*   **Nutrition:** Cod liver oil, or other essential daily nutrient support products / exclude any types of multivitamins since it's a part of health supplement above.
 *   **Protein:** Protein powders (Whey, Casein, Soy, Pea, etc.) or meal replacement shakes that are primarily for nutritional intake/muscle support.
 
 ### 4. WEIGHT MANAGEMENT SUPPLEMENTS
@@ -44,10 +44,10 @@ Your task is to analyze a given product name and classify it into exactly ONE of
 **Input:** "Apple Cider Vinegar Capsules for Bloating"
 **Output:** `{"L4_Category": "Detox & Colon Care"}`
 
-**Input:** "Complete Daily Multivitamin for Men"
+**Input:** "Blackmores Multivitamins + Minerals 30 Tablet BPOM Kalbe"
 **Output:** `{"L4_Category": "Pure Multi Vitamins"}`
 
-**Input:** "Chewable Vitamin D Gummies for Kids"
+**Input:** "Expert Boost VitKids Gummy Multivitamin Lengkap dengan 15 Vitamin & Mineral 30 pcs"
 **Output:** `{"L4_Category": "Kids Multi Vitamins"}`
 
 ## OUTPUT FORMAT:
