@@ -23,7 +23,7 @@ Focuses on functional attributes such as usage purpose, surface compatibility, a
 ## ⚖️ Compliance & Constraints
 * **Beauty**: Focus on sensory attributes and application areas.
 * **Vitamins**: Strict adherence to non-medicinal claims; classification must not imply "cures" or "treatments" unless specified in the L4 logic.
-* Home&Office**: Focus on functional and usage-based classification (e.g., cleaning type, surface, or environment).
+* **Home&Office**: Focus on functional and usage-based classification (e.g., cleaning type, surface, or environment).
 ---
 
 **Last Updated:** March 2026
