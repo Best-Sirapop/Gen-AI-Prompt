@@ -8,18 +8,22 @@ The goal of this system is to ingest raw product names and accurately map them t
 ---
 
 ## 📂 Repository Structure
+The project is organized by business category to account for category-specific logic, regulatory requirements, and naming conventions:
 
-The project is divided by business category to handle specific regulatory and naming nuances:
+* **`/beauty-personal-care`** Covers Skin Care, Hair Care, Makeup, Fragrance, Oral Care, Skin Cleansing, Deodorants, and Personal Care Appliances.
+Focuses on product attributes such as texture, scent, and application areas.
 
-* **`/beauty-personal-care`**: Logic for Skin Care, Hair Care, Makeup, Fragrance, Oral Care, Skin Cleansing, Deodorants, Personal Care Appliance.
-* **`/vitamins-supplements`**: Logic for Health, Vitamins, and Dietary Supplements.
-* **`/home-office`**: Logic for laundry and cleaning agents
+* **`/vitamins-supplements`**: Covers Health, Vitamins, and Dietary Supplements.
+Emphasizes strict compliance with regulatory guidelines for health-related claims.
 
+* **`/home-office`**: Covers Laundry and Cleaning Agents, as well as Home & Office maintenance products.
+Focuses on functional attributes such as usage purpose, surface compatibility, and cleaning performance.
 ---
 
 ## ⚖️ Compliance & Constraints
 * **Beauty**: Focus on sensory attributes and application areas.
 * **Vitamins**: Strict adherence to non-medicinal claims; classification must not imply "cures" or "treatments" unless specified in the L4 logic.
+* Home&Office**: Focus on functional and usage-based classification (e.g., cleaning type, surface, or environment).
 ---
 
-**Last Updated:** February 2026
+**Last Updated:** March 2026
