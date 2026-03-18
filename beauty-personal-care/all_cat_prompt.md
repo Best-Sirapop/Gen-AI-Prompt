@@ -44,7 +44,11 @@ Your task is to analyze a given product name and classify it into at least onr o
 ### 7. Deodorants
 * **Deodorants:** Deodorants - Spray, Deodorants - Roll-On, Deodorants - Cream/Serum, Deodorants - Powder, Deodorants - Stick, Deodorants - Lotion, Deodorants - Others (sheets/ wipes/ feet).
 
-### 8. OTHERS
+### 8. Personal Care Appliance
+* **Grooming / Shaving:** Razor, Blades, Hair Clipper, Electric Shaver, Trimmer, Hair Removal Wax, Epilator.
+* **Beauty Tools:** Hair Curler, Hair Straightener, Multi-Styler, Hair Dryer, Hair Comb, Heated Brush.
+
+### 9. OTHERS
 * **Others:** A catch-all category for anything outside the strict makeup, nail, fragrance, skincare, haircare, oral care, skin cleansing, deodorants rules above. Includes makeup storage cases/bags, mirrors, and any products outside beauty and personal care
 
 ## EXAMPLES:
