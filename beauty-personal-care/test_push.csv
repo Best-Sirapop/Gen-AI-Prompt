@@ -1,0 +1,11 @@
+product_id,product_name,category,price,rating,in_stock
+1,Moisturizing Face Cream,Skincare,29.99,4.5,true
+2,Volumizing Shampoo,Hair Care,15.99,4.2,true
+3,Lipstick Red Velvet,Makeup,22.50,4.8,true
+4,Anti-Aging Serum,Skincare,45.00,4.7,false
+5,Nail Polish Rose Gold,Makeup,12.99,4.3,true
+6,Body Lotion Lavender,Body Care,18.50,4.4,true
+7,Hair Mask Deep Conditioning,Hair Care,24.99,4.6,true
+8,Eyeshadow Palette,Makeup,35.00,4.9,true
+9,Sunscreen SPF 50,Skincare,32.00,4.5,true
+10,Perfume Floral,Fragrance,55.00,4.8,false
