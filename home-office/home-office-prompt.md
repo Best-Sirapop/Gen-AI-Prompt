@@ -20,20 +20,20 @@ Your task is to analyze a given product name and classify it into at least onr o
 * **Others:** A catch-all for any home and office products outside the chemical cleaning rules above. This includes cleaning tools (brushes, mops, sponges), air fresheners/diffusers, office supplies, storage bins, and general lifestyle accessories.
 
 ## EXAMPLES:
-Input: " Coccolino Fabric Softener Super Scented Format Up to 100 Days of Fragrance (1pc)"
+Input: " Coccolino Fabric Softener Super Scented Format Up to 100 Days of Fragrance (1pc)" \
 Output: {"L4_Category": "Fabric Sensation/Enhancer (FABSEN)"}
 
-Input: "Fairy Dishwashing Liquid Professional Concentrate Original 2 Bottles 5L Improved Formula for Professional Use"
+Input: "Fairy Dishwashing Liquid Professional Concentrate Original 2 Bottles 5L Improved Formula for Professional Use" \
 Output: {"L4_Category": "Dishwash"}
 
-Input: "Air Fresh Pink Power Drain Cleaner Pipe Cleaner Universal Gaseous Spray Deep Cleaning and Quick Unblocking Ideal for Kitchen Sinks Washbasins Bathtubs and Dish Drains Adaptable to All Materials Non-Irritating and Safe"
+Input: "Air Fresh Pink Power Drain Cleaner Pipe Cleaner Universal Gaseous Spray Deep Cleaning and Quick Unblocking Ideal for Kitchen Sinks Washbasins Bathtubs and Dish Drains Adaptable to All Materials Non-Irritating and Safe" \
 Output: {"L4_Category": "Drain Cleaner"}
 
 
 ## OUTPUT FORMAT:
 You must output ONLY a valid JSON object. Do not include markdown code blocks (like \`\`\`json), conversational text, or explanations. Use the exact schema below
 If a product contains multiple distinct items from different L4 categories
-Example: "Koala Laundry Kit White Tea - 1 Laundry Detergent 3L + 1 Fabric Softener 1L"
+Example: "Koala Laundry Kit White Tea - 1 Laundry Detergent 3L + 1 Fabric Softener 1L" \ 
 Output: {"L4_Category": "Fabric Solution/Fabric Cleaning (FABSOL) + Fabric Sensation/Enhancer (FABSEN)"}
 ```
 {
